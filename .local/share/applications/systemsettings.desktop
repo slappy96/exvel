@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=Qt;KDE;Settings;
+Comment=Configuration tools for your computer
+Exec=systemsettings5
+GenericName=
+Icon=preferences-system
+Name=Maintenance Control
+NoDisplay=false
+OnlyShowIn=KDE;
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=org.kde.systemsettings
+X-DBUS-StartupType=Unique
+X-DocPath=systemsettings/index.html
+X-KDE-StartupNotify=true
+X-KDE-SubstituteUID=false
+X-KDE-Username=
