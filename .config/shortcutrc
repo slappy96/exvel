@@ -1,0 +1,28 @@
+# vim: filetype=sh
+alias h="cd ~/ && ls -a" \
+d="cd ~/docs && ls -a" \
+dl="cd ~/dl && ls -a" \
+m="cd ~/music && ls -a" \
+pp="cd ~/pix && ls -a" \
+vv="cd ~/Videos && ls -a" \
+cf="cd ~/.config && ls -a" \
+sc="cd ~/.local/bin && ls -a" \
+mn="cd /mnt && ls -a" \
+bf="$EDITOR ~/.config/files" \
+bd="$EDITOR ~/.config/directories" \
+bw="$EDITOR ~/.config/bookmarks" \
+cfa="$EDITOR ~/.config/aliasrc" \
+cfz="$EDITOR $ZDOTDIR/.zshrc" \
+cfv="$EDITOR ~/.config/nvim/init.vim" \
+cfm="$EDITOR ~/.config/mutt/muttrc" \
+cfd="$EDITOR ~/.Xdefaults" \
+cfu="$EDITOR ~/.config/newsboat/urls" \
+cfn="$EDITOR ~/.config/newsboat/config" \
+cfmb="$EDITOR ~/.config/ncmpcpp/bindings" \
+cfmc="$EDITOR ~/.config/ncmpcpp/config" \
+cfk="$EDITOR ~/.config/sxhkd/sxhkdrc" \
+cfi="$EDITOR ~/.config/i3/config" \
+cfb="$EDITOR ~/.config/i3blocks/config" \
+
+# slappy additions for convenience
+esv="python ~/bin/python/esvbible.py" \

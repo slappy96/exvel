@@ -1,0 +1,343 @@
+Mar 19 01:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 19 01:50 : exception: Failed to open '/home/slappy/.config/mpd/state': No such file or directory
+Mar 19 01:50 : exception: Failed to access /home/slappy/Music: No such file or directory
+Mar 19 01:50 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 19 07:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 19 07:36 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 19 08:38 : client: [0] opened from 127.0.0.1:42192
+Mar 19 10:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 19 10:11 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 19 15:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 19 15:38 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 19 15:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 19 15:42 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 19 15:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 19 15:47 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 21 18:15 : client: [0] opened from 127.0.0.1:51056
+Mar 21 18:15 : client: [0] closed
+Mar 21 21:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 21 21:46 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 21 22:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 21 22:11 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 21 22:17 : client: [0] opened from 127.0.0.1:34554
+Mar 21 22:17 : client: [0] closed
+Mar 21 23:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 21 23:12 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 23 20:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 20:51 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 23 21:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 21:04 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 23 21:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 21:29 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 23 21:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 21:39 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 23 21:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 21:45 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 23 22:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 22:16 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 23 22:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 22:42 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 23 23:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 23:14 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 23 23:16 : client: [0] opened from 127.0.0.1:52380
+Mar 23 23:17 : client: [1] opened from 127.0.0.1:52388
+Mar 23 23:17 : client: [1] closed
+Mar 23 23:17 : client: [2] opened from 127.0.0.1:52392
+Mar 23 23:17 : client: [2] closed
+Mar 23 23:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 23:31 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 23 23:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 23:38 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 24 09:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 24 09:39 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 24 09:44 : client: [0] opened from 127.0.0.1:34234
+Mar 24 09:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 24 09:59 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 24 10:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 24 10:41 : exception: inotify_add_watch() has failed: No such file or directory
+Mar 24 11:33 : client: [0] opened from 127.0.0.1:56916
+Mar 24 11:33 : client: [0] closed
+Mar 24 11:50 : client: [1] opened from 127.0.0.1:56930
+Mar 25 18:46 : client: [1] closed
+Mar 25 18:46 : client: [2] opened from 127.0.0.1:59466
+Mar 28 18:19 : client: [3] opened from 127.0.0.1:36008
+Mar 28 18:19 : client: [3] closed
+Mar 28 18:19 : client: [4] opened from 127.0.0.1:36012
+Mar 28 18:19 : client: [4] closed
+Apr 02 16:05 : client: [2] closed
+Apr 02 16:05 : client: [5] opened from 127.0.0.1:41870
+Apr 02 16:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 16:25 : exception: inotify_add_watch() has failed: No such file or directory
+Apr 06 07:38 : client: [0] opened from 127.0.0.1:60946
+Apr 06 07:38 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:39 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 07:40 : client: [0] closed
+Apr 06 09:31 : client: [1] opened from 127.0.0.1:60956
+Apr 06 09:31 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:31 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:31 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:31 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:31 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:31 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:31 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:31 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:32 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:39 : client: [1] closed
+Apr 06 09:39 : client: [2] opened from 127.0.0.1:60962
+Apr 06 09:39 : client: [2] closed
+Apr 06 09:49 : client: [3] opened from 127.0.0.1:60968
+Apr 06 09:49 : client: [3] closed
+Apr 06 09:51 : client: [4] opened from 127.0.0.1:60972
+Apr 06 09:51 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:51 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:51 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:51 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:52 : client: [4] closed
+Apr 06 09:52 : client: [5] opened from 127.0.0.1:60980
+Apr 06 09:52 : client: [6] opened from 127.0.0.1:60988
+Apr 06 09:52 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:52 : client: [6] closed
+Apr 06 09:54 : client: [7] opened from 127.0.0.1:60994
+Apr 06 09:54 : exception: Failed to access /home/slappy/Music: No such file or directory
+Apr 06 09:54 : client: [5] closed
+Apr 06 09:54 : client: [7] closed
+Apr 06 09:54 : client: [8] opened from 127.0.0.1:60998
+Apr 06 09:54 : client: [9] opened from 127.0.0.1:32770
+Apr 06 09:54 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:54 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:54 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:54 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:54 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:54 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:56 : client: [9] closed
+Apr 06 09:56 : client: [10] opened from 127.0.0.1:32774
+Apr 06 09:56 : exception: Failed to access /home/slappy/Music: No such file or directory
+Apr 06 09:56 : client: [8] closed
+Apr 06 09:56 : client: [10] closed
+Apr 06 09:56 : client: [11] opened from 127.0.0.1:32778
+Apr 06 09:56 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 09:56 : client: [11] closed
+Apr 06 10:01 : client: [12] opened from 127.0.0.1:32784
+Apr 06 10:01 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:01 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:01 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:01 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:01 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:01 : client: [12] closed
+Apr 06 10:01 : client: [13] opened from 127.0.0.1:32788
+Apr 06 10:01 : exception: Failed to access /home/slappy/Music: No such file or directory
+Apr 06 10:01 : client: [13] closed
+Apr 06 10:01 : client: [14] opened from 127.0.0.1:32792
+Apr 06 10:01 : client: [14] closed
+Apr 06 10:04 : client: [15] opened from 127.0.0.1:32798
+Apr 06 10:04 : exception: Failed to access /home/slappy/Music: No such file or directory
+Apr 06 10:04 : client: [15] closed
+Apr 06 10:04 : client: [16] opened from 127.0.0.1:32802
+Apr 06 10:04 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:04 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:04 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:04 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:04 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:04 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:04 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:04 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:04 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:04 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:04 : client: [16] closed
+Apr 06 10:06 : client: [17] opened from 127.0.0.1:32806
+Apr 06 10:06 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:06 : client: [17] closed
+Apr 06 10:09 : client: [18] opened from 127.0.0.1:32812
+Apr 06 10:09 : exception: Failed to access /home/slappy/Music: No such file or directory
+Apr 06 10:09 : client: [18] closed
+Apr 06 10:09 : client: [19] opened from 127.0.0.1:32816
+Apr 06 10:09 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:09 : client: [19] closed
+Apr 06 10:09 : client: [20] opened from 127.0.0.1:32820
+Apr 06 10:09 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:09 : client: [20] closed
+Apr 06 10:10 : client: [21] opened from 127.0.0.1:32824
+Apr 06 10:10 : client: [22] opened from 127.0.0.1:32830
+Apr 06 10:10 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:10 : client: [22] closed
+Apr 06 10:10 : client: [23] opened from 127.0.0.1:32836
+Apr 06 10:10 : exception: Failed to access /home/slappy/Music: No such file or directory
+Apr 06 10:10 : client: [21] closed
+Apr 06 10:10 : client: [23] closed
+Apr 06 10:10 : client: [24] opened from 127.0.0.1:32840
+Apr 06 10:10 : client: [25] opened from 127.0.0.1:32844
+Apr 06 10:10 : client: [25] closed
+Apr 06 10:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 06 10:14 : client: [0] opened from 127.0.0.1:40644
+Apr 06 10:14 : exception: Failed to open /home/slappy/.config/mpd/playlists: No such file or directory
+Apr 06 10:14 : client: [0] closed
+Apr 06 10:14 : client: [1] opened from 127.0.0.1:40648
+Apr 06 10:14 : client: [1] closed
+Apr 06 10:14 : update: added MACHINA_The Machines of God/02 Raindrops + Sunshowers.mp3
+Apr 06 10:14 : update: added MACHINA_The Machines of God/12 The Crying Tree Of Mercury.mp3
+Apr 06 10:14 : update: added MACHINA_The Machines of God/08 This Time.mp3
+Apr 06 10:14 : update: added MACHINA_The Machines of God/14 Blue Skies Bring Tears.mp3
+Apr 06 10:14 : update: added MACHINA_The Machines of God/11 Wound.mp3
+Apr 06 10:14 : update: added MACHINA_The Machines of God/07 Heavy Metal Machine.mp3
+Apr 06 10:14 : update: added MACHINA_The Machines of God/13 With Every Light.mp3
+Apr 06 10:14 : update: added MACHINA_The Machines of God/10 Glass And The Ghost Children.mp3
+Apr 06 10:14 : update: added MACHINA_The Machines of God/06 Try, Try, Try.mp3
+Apr 06 10:14 : update: added MACHINA_The Machines of God/09 The Imploding Voice.mp3
+Apr 06 10:14 : update: added MACHINA_The Machines of God/15 Age Of Innocence.mp3
+Apr 06 10:14 : update: added MACHINA_The Machines of God/01 The Everlasting Gaze.mp3
+Apr 06 10:14 : update: added MACHINA_The Machines of God/04 I Of The Mourning.mp3
+Apr 06 10:14 : update: added MACHINA_The Machines of God/05 The Sacred And Profane.mp3
+Apr 06 10:14 : update: added MACHINA_The Machines of God/03 Stand Inside Your Love.mp3
+Apr 06 10:14 : update: added 10,000 Days/05 The Pot.m4a
+Apr 06 10:14 : update: added 10,000 Days/07 Lost Keys (Blame Hofmann).m4a
+Apr 06 10:14 : update: added 10,000 Days/11 Viginti Tres.m4a
+Apr 06 10:14 : update: added 10,000 Days/08 Rosetta Stoned.m4a
+Apr 06 10:14 : update: added 10,000 Days/09 Intension.m4a
+Apr 06 10:14 : update: added 10,000 Days/10 Right In Two.m4a
+Apr 06 10:14 : update: added 10,000 Days/04 10,000 Days (Wings, Pt. 2).m4a
+Apr 06 10:14 : update: added 10,000 Days/03 Wings for Marie, Pt. 1.m4a
+Apr 06 10:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 06 10:14 : update: added 10,000 Days/02 Jambi.m4a
+Apr 06 10:14 : update: added 10,000 Days/06 Lipan Conjuring.m4a
+Apr 06 10:15 : client: [2] opened from 127.0.0.1:40652
+Apr 06 10:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 06 10:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 06 10:19 : client: [2] closed
+Apr 06 10:19 : client: [3] opened from 127.0.0.1:40658
+Apr 06 11:04 : client: [3] closed
+Apr 07 18:06 : client: [4] opened from 127.0.0.1:41034
+Apr 07 18:06 : client: [4] closed
+Apr 08 12:40 : player: played "MACHINA_The Machines of God/03 Stand Inside Your Love.mp3"
+Apr 08 12:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 08 12:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 23 19:42 : client: [0] opened from 127.0.0.1:37672
+Apr 23 19:43 : player: played "MACHINA_The Machines of God/03 Stand Inside Your Love.mp3"
+Apr 23 19:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 23 19:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 23 19:44 : player: played "MACHINA_The Machines of God/03 Stand Inside Your Love.mp3"
+Apr 23 19:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 23 19:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 23 22:43 : player: played "MACHINA_The Machines of God/03 Stand Inside Your Love.mp3"
+Apr 23 22:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 23 22:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 27 12:49 : client: [0] opened from 127.0.0.1:39080
+Apr 27 12:49 : client: [0] closed
+May 01 14:34 : player: played "MACHINA_The Machines of God/03 Stand Inside Your Love.mp3"
+May 01 14:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 01 14:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 01 14:51 : player: played "MACHINA_The Machines of God/03 Stand Inside Your Love.mp3"
