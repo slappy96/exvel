@@ -1,6 +1,9 @@
 #!/bin/zsh
 # exitvelocity zsh profile - runs on login and sets environmental variables
 
+# adds ~/.local/bin to $PATH
+export PATH="$PATH:$(du "$HOME/.local/bin/" | cut -f2 | tr '\n' ':' | sed 's/:*$//')"
+
 # default programs
 export EDITOR="nvim"
 export TERMINAL="st"
