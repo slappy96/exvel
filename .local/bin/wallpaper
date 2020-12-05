@@ -1,4 +1,6 @@
 #!/bin/sh
 
-feh --bg-scale ~/.config/wallpaper/arch_drk_bg.jpg
+#### Written by exitvelocity 28 Nov 2020 ####
+
+feh --bg-scale ~/.config/wallpaper/archwave.png
 exit 0
