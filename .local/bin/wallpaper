@@ -2,5 +2,5 @@
 
 #### Written by exitvelocity 28 Nov 2020 ####
 
-feh --bg-scale ~/.config/wallpaper/archwave.png
+xwallpaper --zoom ~/.config/wallpaper/shrike_hornet.jpg
 exit 0
