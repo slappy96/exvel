@@ -1,14 +1,24 @@
-# Luke's config for the Zoomer Shell
+# =========================================================================== #
+#  exitVelocity z-shell config
+#  features: VCS(zsh-git-prompt)-place in right prompt position
+#
+# =========================================================================== #
 
 # Enable colors and change prompt:
 autoload -U colors && colors	# Load colors
-PS1="%B%{$fg[red]%}[%{$fg[yellow]%}%n%{$fg[green]%}@%{$fg[blue]%}%M %{$fg[magenta]%}%~%{$fg[red]%}]%{$reset_color%}$%b "
+
+# Source the VCS git script and both prompt setup
+source ~/.config/zsh/zsh-git-prompt/zshrc.sh
+PROMPT='%~%b> '
+RPROMPT='$(git_super_status)'
+
 setopt autocd		# Automatically cd into typed directory.
 stty stop undef		# Disable ctrl-s to freeze terminal.
+setopt interactive_comments
 
 # History in cache directory:
-HISTSIZE=10000
-SAVEHIST=10000
+HISTSIZE=1000000
+SAVEHIST=1000000
 HISTFILE=~/.cache/zsh/history
 
 # Load aliases and shortcuts if existent.
