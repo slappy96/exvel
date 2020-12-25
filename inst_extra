@@ -1,0 +1,21 @@
+#!/bin/sh
+
+installpkg() { sudo pacman --noconfirm --needed -S "$1"; }
+
+installpkg firefox \
+qemu \
+dhclient \
+openbsd-netcat \
+virt-viewer \
+libvirt \
+dnsmasq \
+dmidecode \
+ebtables \
+virt-install \
+virt-manager \
+bridge-utils \
+cmatrix \
+nmap \
+screenfetch \
+networkmanager \
+neovim \
