@@ -8,7 +8,6 @@ vv="cd ~/video && ls -a" \
 cf="cd ~/.config && ls -a" \
 sc="cd ~/.local/bin && ls -a" \
 mn="cd /mnt && ls -a" \
-bf="$EDITOR ~/.config/files" \
 bd="$EDITOR ~/.config/directories" \
 bw="$EDITOR ~/.config/bookmarks" \
 cfa="$EDITOR ~/.config/aliasrc" \
