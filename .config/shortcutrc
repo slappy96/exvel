@@ -18,11 +18,3 @@ cfm="$EDITOR ~/.config/mutt/muttrc" \
 cfd="$EDITOR ~/.Xdefaults" \
 cfu="$EDITOR ~/.config/newsboat/urls" \
 cfn="$EDITOR ~/.config/newsboat/config" \
-cfmb="$EDITOR ~/.config/ncmpcpp/bindings" \
-cfmc="$EDITOR ~/.config/ncmpcpp/config" \
-cfk="$EDITOR ~/.config/sxhkd/sxhkdrc" \
-cfi="$EDITOR ~/.config/i3/config" \
-cfb="$EDITOR ~/.config/i3blocks/config" \
-
-# slappy additions for convenience
-esv="python ~/bin/python/esvbible.py" \
