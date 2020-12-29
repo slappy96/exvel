@@ -8,9 +8,9 @@
 autoload -U colors && colors	# Load colors
 
 # Source the VCS git script and both prompt setup
-source ~/.config/zsh/zsh-git-prompt/zshrc.sh
+#source ~/.config/zsh/zsh-git-prompt/zshrc.sh
 PROMPT='%~%b> '
-RPROMPT='$(git_super_status)'
+#RPROMPT='$(git_super_status)'
 
 setopt autocd		# Automatically cd into typed directory.
 stty stop undef		# Disable ctrl-s to freeze terminal.
