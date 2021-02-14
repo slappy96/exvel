@@ -15,7 +15,9 @@ alias \
 	ffmpeg="ffmpeg -hide_banner" \
 	ll="ls -la --color=auto" \
 	c="clear" \
-	..="cd .."
+	..="cd .." \
+	df="df -h" \
+	sus="systemctl suspend"
 
 # Colorize commands when possible.
 alias \
@@ -28,7 +30,6 @@ alias \
 alias \
 	ka="killall" \
 	g="git" \
-	trem="transmission-remote" \
 	YT="youtube-viewer" \
 	sdn="sudo shutdown -h now" \
 	f="$FILE" \
