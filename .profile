@@ -1,1 +1,1 @@
-.zprofile
+.config/zprofile
